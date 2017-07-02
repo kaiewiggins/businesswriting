@@ -1,0 +1,15 @@
+body, html {
+    height: 100%;
+}
+
+.bg { 
+    background-image: url("pexels-photo-38892.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
