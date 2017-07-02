@@ -1,0 +1,5 @@
+name: K.A. Wiggins
+markdown: kramdown
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
