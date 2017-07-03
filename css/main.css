@@ -1,9 +1,7 @@
 body, html {
     height: 100%;
-}
 
-.background1 { 
-    background-image: url("http://businesswriting.solutions/pexels-photo-38892.jpg");
+    background-image: url("businesswriting.solutions/pexels-photo-38892.jpg");
 
     /* Full height */
    height: 100%; 
