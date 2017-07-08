@@ -1,5 +1,6 @@
 body, html {
     height: 100%;
+      background: url("https://static.pexels.com/photos/38892/pexels-photo-38892.jpeg") no-repeat center/cover fixed; 
 }
     /*background-image: url("businesswriting.solutions/pexels-photo-38892.jpg");*/
 
