@@ -76,6 +76,8 @@ position: fixed;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+      height: 100%;
+   width: auto;
   padding: 10%;
 }
 
@@ -88,6 +90,8 @@ position: fixed;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+      height: 100%;
+   width: auto;
   padding: 10%;
 }
 
@@ -100,6 +104,8 @@ position: fixed;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+      height: 100%;
+   width: auto;
   padding: 10%;
 }
 
@@ -112,6 +118,8 @@ position: fixed;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+      height: 100%;
+   width: auto;
   padding: 10%;
 }
 
