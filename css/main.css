@@ -59,6 +59,7 @@ position: fixed;
   padding: 0px;
   margin-bottom: 0px;
   color: inherit;
+  height: 100%;
   background: url(/pexels-photo-38892.jpeg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
