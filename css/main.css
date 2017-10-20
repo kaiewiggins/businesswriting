@@ -54,7 +54,7 @@ position: fixed;
 }
 
 /* for parallax - copy .content array and rename for every image-insert in site*/
-.content-consulting-space-one {
+.index-bg-1 {
   padding: 0px;
   margin-bottom: 0px;
   color: inherit;
@@ -65,7 +65,7 @@ position: fixed;
   background-size: cover;
   padding: 10%;
 }
-.content-consulting-space-two {
+.index-bg-2 {
   padding: 0px;
   margin-bottom: 0px;
   color: inherit;
@@ -74,12 +74,10 @@ position: fixed;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-   height:100%;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding: 10%;
 }
 
-.content-consulting-space-three {
+.index-bg-3 {
   padding: 0px;
   margin-bottom: 0px;
   color: inherit;
@@ -92,7 +90,7 @@ position: fixed;
   padding-bottom: 100px;
 }
 
-.content-index-space-one {
+.index-bg-4 {
   padding: 0px;
   margin-bottom: 0px;
   color: inherit;
@@ -105,7 +103,7 @@ position: fixed;
   padding-bottom: 100px;
 }
 
-.content-index-space-two {
+.index-bg-5 {
   padding: 0px;
   margin-bottom: 0px;
   color: inherit;
