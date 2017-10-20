@@ -3,11 +3,11 @@ body, html {
    height: 100%;
   }
 
-  h1 {color: #df9325;
+  h1 {color: #d95033;
   text-align: center;
   }
   
-h2,h3,h4 {color: #df9325;}
+h2,h3,h4 {color: #d95033;}
 
 .affix { z-index: 9998;
   top: 30px;
