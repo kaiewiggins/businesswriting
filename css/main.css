@@ -27,6 +27,7 @@ position: fixed;
 #portfolioprojects{}
 #contactme{}
 #aboutme{}
+#quoterates{}
 
 #container:hover #name {
   transform: translate(0, 0) !important;
