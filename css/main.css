@@ -55,6 +55,12 @@ position: fixed;
   z-index: 10;
 }
 
+.clearfix:after {
+content: "";
+display: table;
+clear: both;
+}
+
 /* for parallax - copy .content array and rename for every image-insert in site*/
 .index-bg-1 {
   padding: 0px;
