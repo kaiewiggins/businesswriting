@@ -39,6 +39,12 @@ position: fixed;
   transition: transform 0.25s ease;
   transform: translate(0, 90%) !important;
   z-index: 10;
+   position: absolute; 
+   left: 0; 
+   right: 0; 
+   top: 0; 
+   bottom: 0; 
+   text-align: center;
 }
 
 #container {
