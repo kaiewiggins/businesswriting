@@ -10,6 +10,9 @@ body, html {
   
 h2,h3,h4 {color: #f48028;}
 
+text-center {width: fit-content;
+height: fit-content;}
+
 .affix { z-index: 9998;
   top: 30px;
   background: #000;
@@ -67,6 +70,7 @@ position: fixed;
   -o-background-size: cover;
   background-size: cover;
    min-height: 100%;
+   height: fit-content;
    width: fit-content;
   padding: 10%;
 }
@@ -80,6 +84,7 @@ position: fixed;
   -o-background-size: cover;
   background-size: cover;
       min-height: 100%;
+   height: fit-content;
    width: fit-content;
   padding: 10%;
 }
@@ -94,6 +99,7 @@ position: fixed;
   -o-background-size: cover;
   background-size: cover;
       min-height: 100%;
+   height: fit-content;
    width: fit-content;
   padding: 10%;
 }
@@ -108,6 +114,7 @@ position: fixed;
   -o-background-size: cover;
   background-size: cover;
       min-height: 100%;
+   height: fit-content;
    width: fit-content;
   padding: 10%;
 }
@@ -122,6 +129,7 @@ position: fixed;
   -o-background-size: cover;
   background-size: cover;
       min-height: 100%;
+   height: fit-content;
    width: fit-content;
   padding: 10%;
 }
