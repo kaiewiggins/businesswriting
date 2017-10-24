@@ -145,3 +145,69 @@ ul.posts li {
 
 .banner {margin: 0 auto;}
 
+@media all and (min-width: 601px) {
+   .index-bg-1 {
+  padding: 0px;
+  margin-bottom: 0px;
+  color: inherit;
+  background: url(/pexels-photo-38892-1920px.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+   min-height: 100vh;
+  padding: 10%;
+}
+.index-bg-2 {
+  padding: 0px;
+  margin-bottom: 0px;
+  color: inherit;
+  background: url(/cup-of-coffee-laptop-office-macbook-89786-1920px.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+      min-height: 100vh;
+  padding: 10%;
+}
+
+.index-bg-3 {
+  padding: 0px;
+  margin-bottom: 0px;
+  color: inherit;
+  background: url(/pexels-photo-204693-1920px.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+      min-height: 100vh;
+  padding: 10%;
+}
+
+.index-bg-4 {
+  padding: 0px;
+  margin-bottom: 0px;
+  color: inherit;
+  background: url(/laptop-computer-coffee-yellow-163145-1920px.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+      min-height: 100vh;
+  padding: 10%;
+}
+
+.index-bg-5 {
+  padding: 0px;
+  margin-bottom: 0px;
+  color: inherit;
+  background: url(/pexels-photo-442574-1920px.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+      min-height: 100vh;
+  padding: 10%;
+}
+
+    }
