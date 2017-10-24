@@ -82,7 +82,7 @@ ul.posts li {
 
 .banner {margin: 0 auto;}
 
-@media all and (min-width: 601px) {
+@media all and (min-width: 501px) {
    .index-bg-1 {
   padding: 0px;
   margin-bottom: 0px;
