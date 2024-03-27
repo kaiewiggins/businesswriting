@@ -220,7 +220,7 @@ ul.posts li {
 /* COLLAPSIBLE MENU TEST CSS */
 
 /* Style the button that is used to open and close the collapsible content */
-.collapsible {
+.menu-collapsible {
   background-color: #eee;
   color: #444;
   cursor: pointer;
@@ -233,7 +233,7 @@ ul.posts li {
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .collapsible:hover {
+.active, .menu-collapsible:hover {
   background-color: #ccc;
 }
 
@@ -247,7 +247,7 @@ ul.posts li {
   transition: max-height 0.2s ease-out;
 }
 
-.collapsible:after {
+.menu-collapsible:after {
   content: '\02795'; /* Unicode character for "plus" sign (+) */
   font-size: 13px;
   color: white;
