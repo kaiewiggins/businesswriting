@@ -216,3 +216,64 @@ ul.posts li {
 }
 
     }
+
+/* DYNAMIC APPLICATIONS */
+
+/* COLLAPSIBLE SIDE NAVIGATION */
+
+side-nav > a {
+   color: #ffffff !important
+}
+
+side-nav-label {
+   color: #ffffff !important
+}
+side-nav, side-nav-button-bar {
+   background: #f48028 !important
+}
+
+side-nav-button[side-nav-opened="true"] side-nav-button-bar {
+   background: #ffffff !important
+}
+
+side-nav-cover {
+   background: #000000 !important
+}
+
+/* COOKIE CONSENT POP-UP */
+
+cookie-consent {
+   background-color: rgb(255,255,255);
+   opacity:0.66;
+   bottom:0px;
+   z-index:12006;
+}
+
+cookie-consent-text {
+   background-color: rgb(244,128,40);
+   opacity:0.66;
+   bottom:0px;
+   z-index:12006;
+}
+
+cookie-consent > .cookie-consent-container > .cookie-consent-button > button {
+   background-color: #f48028; 
+   color: #ffffff;
+   border-color: rgb(255,255,255);
+}
+
+cookie-consent > .cookie-consent-container > .cookie-consent-button > button:hover {
+   background-color: #191919; 
+   color: #f48028;
+}
+
+/* BACK TO TOP BUTTON */
+
+back-to-top-button {
+   background-color: rgba(244, 128, 40, 0.2);
+   border-radius: 37.5px;
+}
+
+back-to-top-button-icon {
+   fill: rgba(244, 128, 40, 0.9);
+}
