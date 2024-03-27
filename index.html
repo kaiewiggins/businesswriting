@@ -11,6 +11,22 @@ title: US and Canadian Business Writing Solutions
 <div class="content">
   <p>Test Menu Item 1?</p>
 </div>
+	    <script>
+      var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+	    </script>
 	    
         <div class="text-center" style="background-color: rgba(255,255,255,0.9); padding: 10%;">
           <h1>Business Writing Solutions</h1>
