@@ -220,7 +220,7 @@ ul.posts li {
 /* DYNAMIC APPLICATIONS */
 
 /*Batch 1 */
-
+/*Resize max-width to 100% after test */
 dyapps-side-nav {
     box-sizing: border-box !important;
     display: block !important;
@@ -231,7 +231,7 @@ dyapps-side-nav {
     bottom: 0 !important;
     font-family: inherit !important;
     font-size: 1.5em !important;
-    max-width: 100% !important;
+    max-width: 150% !important;
     padding: 3.75em 2.5em 1.5em 1.5em !important;
     overflow: auto !important;
     -webkit-overflow-scrolling: touch;
