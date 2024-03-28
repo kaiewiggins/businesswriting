@@ -19,9 +19,8 @@ h2,h3,h4 {color: #f48028;}
    position: fixed; 
 }
 
-.navbar-text {
+.nav-item {
    color: #f48028;
-   font-size: 1.3em;
 }
 
 .affix { z-index: 9998;
