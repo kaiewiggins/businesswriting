@@ -10,7 +10,7 @@ body, html {
   
 h2,h3,h4 {color: #f48028;}
 
-.navbar {
+.navbar-nav {
    bottom: 2%;
    z-index: 20;
    width: 100%; 
