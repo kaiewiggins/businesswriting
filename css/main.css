@@ -19,7 +19,7 @@ h2,h3,h4 {color: #f48028;}
    position: fixed; 
 }
 
-.nav-item, nav-link {
+.nav-item, .nav-link {
    color: #f48028;
    text-size: 1.5em;
    padding: 1em;
